@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-honfui
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/8bfd3344-da62-4db0-b578-4516aaa86065/resourceGroups/rg-az400-eshoponweb-honfui
+  SUBSCRIPTION-ID: 8bfd3344-da62-4db0-b578-4516aaa86065
   WEBAPP-NAME: az400-webapp-honfui
 
 
